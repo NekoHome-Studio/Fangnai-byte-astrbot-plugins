@@ -16,6 +16,7 @@ Fangnai-byte 名下 AstrBot / DeepSeek Harness 相关插件与开发资料的索
 | [astrbot_plugin_ds_status](https://github.com/Fangnai-byte/astrbot_plugin_ds_status) | 订阅状态页 RSS，有新动态推送到 QQ | Python |
 | [astrbot_plugin_self_msg_guard](https://github.com/Fangnai-byte/astrbot_plugin_self_msg_guard) | 自消息守卫：拦截机器人自身消息，防止自转循环 | Python |
 | [astrbot_plugin_plugin_cache](https://github.com/Fangnai-byte/astrbot_plugin_plugin_cache) | 插件二级缓存：按需唤醒休眠插件，用完即关 | Python |
+| [astrbot_plugin_comfyui_local](https://github.com/Fangnai-byte/astrbot_plugin_comfyui_local) | 把本地 ComfyUI 接进 AstrBot：聊天里一句话出图，支持指定 / 展示工作流，含内容兜底与出图日志 | Python |
 | [dsh-deepspace-theme](https://github.com/Fangnai-byte/dsh-deepspace-theme) | DeepSeek Harness Web GUI 的 deepspace 玻璃拟态主题 | JavaScript |
 
 ## 开发资料
