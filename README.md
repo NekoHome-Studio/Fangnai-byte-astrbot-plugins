@@ -14,6 +14,7 @@ Fangnai-byte 名下 AstrBot / DeepSeek Harness 相关插件与开发资料的索
 | [astrbot_plugin_peak_whitelist0d00](https://github.com/Fangnai-byte/astrbot_plugin_peak_whitelist0d00) | 峰值时段白名单（0d00 版） | Python |
 | [astrbot_plugin_qzone_publish](https://github.com/Fangnai-byte/astrbot_plugin_qzone_publish) | 用 `/说说 内容` 直接在 QQ 空间发一条说说 | Python |
 | [astrbot_plugin_ds_status](https://github.com/Fangnai-byte/astrbot_plugin_ds_status) | 订阅状态页 RSS，有新动态推送到 QQ | Python |
+| [astrbot_plugin_daily_weather](https://github.com/NekoHome-Studio/astrbot_plugin_daily_weather) | 每日天气：定时推送天气预报卡片，和风天气优先，没配 Key 自动用免密钥的 Open-Meteo | Python |
 | [astrbot_plugin_self_msg_guard](https://github.com/Fangnai-byte/astrbot_plugin_self_msg_guard) | 自消息守卫：拦截机器人自身消息，防止自转循环 | Python |
 | [astrbot_plugin_plugin_cache](https://github.com/Fangnai-byte/astrbot_plugin_plugin_cache) | 插件二级缓存：按需唤醒休眠插件，用完即关 | Python |
 | [astrbot_plugin_comfyui_local](https://github.com/Fangnai-byte/astrbot_plugin_comfyui_local) | 把本地 ComfyUI 接进 AstrBot：聊天里一句话出图，支持指定 / 展示工作流，含内容兜底与出图日志 | Python |
@@ -31,4 +32,4 @@ Fangnai-byte 名下 AstrBot / DeepSeek Harness 相关插件与开发资料的索
 
 以上插件均以 MIT 许可发布，各自仓库内保留完整提交历史与 Issues。
 
-合集仓库本身位于 NekoHome-Studio 组织下，仅提供索引，便于统一查阅与发现；源码仓库归属 Fangnai-byte。
+合集仓库本身位于 NekoHome-Studio 组织下，仅提供索引，便于统一查阅与发现。源码仓库大多归属 Fangnai-byte，每日天气的仓库直接建在 NekoHome-Studio 下。
